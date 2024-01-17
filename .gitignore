@@ -1,3 +1,7 @@
 *.idea
 week5/build
 week5/lammps
+/week5/caf2.lammpsdump
+/week5/log.lammps
+/week5/structure.data
+/week6/*.xyz
